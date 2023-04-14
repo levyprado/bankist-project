@@ -42,7 +42,7 @@ const translatePTBR = function (translate = false) {
     document.querySelector("#email").textContent = "Email";
     document.querySelector("#proximo").textContent = "Próximo passo →";
     document.querySelector("#translate").textContent = "Translate 🇺🇸";
-
+    document.querySelector("#btnclear").textContent = "Saiba mais ↓";
     document.querySelector("title").textContent =
       "Bankist | Quando banco encontra minimalismo";
 
@@ -103,7 +103,7 @@ const translatePTBR = function (translate = false) {
     document.querySelector("#email").textContent = "Email Addres";
     document.querySelector("#proximo").textContent = "Next step →";
     document.querySelector("#translate").textContent = "Traduzir 🇧🇷";
-
+    document.querySelector("#btnclear").textContent = "Learn more ↓";
     document.querySelector("title").textContent =
       "Bankist | When banking meets minimalist";
     document.querySelector(".quando").textContent = "When";
